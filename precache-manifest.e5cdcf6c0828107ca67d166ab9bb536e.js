@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "421df777489d84fc09b67e8d9d62256c",
+    "revision": "4cf1e6e838ebba3597f560c5ccd9abfa",
     "url": "/hsmuniswap/index.html"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hsmuniswap/static/js/9.c896c4ec.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7129474499eaf225db64",
-    "url": "/hsmuniswap/static/js/main.da88b058.chunk.js"
+    "revision": "6cdb1e4ae8293af89944",
+    "url": "/hsmuniswap/static/js/main.42469817.chunk.js"
   },
   {
     "revision": "1c6283adc9b7a694eee6",
